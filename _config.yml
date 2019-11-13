@@ -12,7 +12,7 @@ url:
 # Owner/author information
 owner:
   name:           Paul Murray
-  avatar:         hmfaysal.jpg
+  avatar:         
   email:          
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Hobbyist Godot game developer
@@ -39,15 +39,15 @@ links:
     icon: home
   - title: Featured Posts
     url: /featured
-  - title: Categories
-    url: /categories
+  - title: Articles
+    url: /articles
   - title: About
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/London
 future:      true
-highlighter: 
+highlighter: rouge
 markdown:    kramdown
 paginate:    5
 paginate_path: "page:num"
